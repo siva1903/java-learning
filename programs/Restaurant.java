@@ -7,8 +7,8 @@ class Restaurant {
 	static Scanner scn = new Scanner(System.in);
 
 	Restaurant() {
-		System.out.println("$$Welcome to Restaurant$$");\\deeapk and siva loves food
-	}
+		System.out.println("$$Welcome to Restaurant$$");\\deeapk and siva loves food 
+	} \\its will be in new branch 
 
 	int briyani(int no) {
 		return 150 * no;
