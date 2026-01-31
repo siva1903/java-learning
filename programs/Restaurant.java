@@ -7,7 +7,7 @@ class Restaurant {
 	static Scanner scn = new Scanner(System.in);
 
 	Restaurant() {
-		System.out.println("$$Welcome to Restaurant$$");
+		System.out.println("$$Welcome to Restaurant$$");\\deeapk
 	}
 
 	int briyani(int no) {
